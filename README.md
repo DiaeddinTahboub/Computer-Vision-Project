@@ -39,4 +39,4 @@ The implemented model is a [e.g., "Convolutional Neural Network (CNN)"] comprisi
 To run the code in this repository, install the following packages:
 
 ```bash
-pip install torch torchvision numpy matplotlib
+pip install torch torchvision numpy matplotlib opencv-python
